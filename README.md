@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["C:\Users\KIIT0001\Pictures\4a184af1-b6e6-4641-9608-604676eda63c.png"](https://github.com/tinu-pabitra/Blog-Rest-Api/blob/main/blog-app-apis/images/4a184af1-b6e6-4641-9608-604676eda63c.png?raw=true)   width="100%">
+  <img src="C:\Users\KIIT0001\Pictures\4a184af1-b6e6-4641-9608-604676eda63c.png" width="100%">
 </p>
 
 # Blog REST API
