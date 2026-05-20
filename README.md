@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\KIIT0001\Pictures\4a184af1-b6e6-4641-9608-604676eda63c.png" width="100%">
+</p>
+
 # Blog REST API
 
 A secure and scalable Blog Application REST API built using Spring Boot and PostgreSQL. This project provides APIs for user authentication, blog management, category management, comments, and role-based authorization using JWT authentication.
