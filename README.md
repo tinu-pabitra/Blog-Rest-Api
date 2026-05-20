@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\KIIT0001\Downloads\project_image.png" width="100%">
+  <img src=<img src="images/project_image.png" width="100%"> width="100%">
  </p>
 
 # Blog REST API
