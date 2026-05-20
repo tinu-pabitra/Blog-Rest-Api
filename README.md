@@ -1,6 +1,6 @@
 <p align="center">
-  <img src=<img src="images/project_image.png"> width="100%">
- </p>
+  <img src="./images/project_image.png" alt="Blog REST API Banner">
+</p>
 
 # Blog REST API
 
