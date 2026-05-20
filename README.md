@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/project_image.png" alt="Banner">
+  <img src="blog-app-apis/images/project_image.png" alt="Banner">
 </p>
 
 # Blog REST API
