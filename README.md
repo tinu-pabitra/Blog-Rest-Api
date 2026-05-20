@@ -1,6 +1,6 @@
 <p align="center">
   <img src="C:\Users\KIIT0001\Downloads\project_image.png" width="100%">
-</p>
+ </p>
 
 # Blog REST API
 
